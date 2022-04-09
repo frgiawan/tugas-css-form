@@ -72,14 +72,19 @@ section.main {
     align-items: center;
     background-color: rgb(237, 237, 237);
     border: 2px solid black;
-    height: 450px;
+    height: 620px;
     width: 900px;
     box-sizing: border-box;
     padding: 10px;
 }
 
+.formulir {
+    width: 60%;
+}
+
 .conten{
     padding-bottom: 20px;
+    padding-top: 20px;
 }
 
 /* main END */
@@ -90,3 +95,4 @@ footer {
     height: 30px;
     padding: 5px;
 }
+
